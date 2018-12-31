@@ -1,2 +1,2 @@
 # images
-Images repository for wiki
+Images repository for `structure-js/datastructure`'s wiki
